@@ -1,4 +1,6 @@
 # Java-Project: GraphCraft Pro
+![image](https://github.com/AdityaC2/Java-Project/assets/91754462/79bdacf0-f128-435a-82dd-8400999e00d2)
+
 THE CURRENT FILE TO BE EDITED IS "DataAnalysisTool"
 
 We are a team of 3 students who are making the application GraphCraft Pro.
