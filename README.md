@@ -1,4 +1,4 @@
-# Java-Project
+# Java-Project: GraphCraft Pro
 THE CURRENT FILE TO BE EDITED IS "DataAnalysisTool"
 
 We are a team of 3 students who are making the application GraphCraft Pro.
