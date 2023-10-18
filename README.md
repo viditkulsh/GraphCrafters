@@ -1,5 +1,11 @@
 # Java-Project
-We are a team of 3 students who are making an application which will allow user to input/plot data simuntaneously on a graph/chart. He/She can then download the designed graph.
+THE CURRENT FILE TO BE EDITED IS "DataAnalysisTool"
+
+We are a team of 3 students who are making the application GraphCraft Pro.
+
+GraftCraft Pro is an innovative and user-friendly application that transforms the graph creation process. With a few simple clicks, users can effortlessly generate and download visually appealing and precise graphs that effectively represent their data. This powerful tool eliminates the need for complicated and time-consuming manual graph-making techniques, and the costly online internet alternatives by providing users with a streamlined and efficient solution. One standout feature of GraftCraft Pro is its capability to analyze various sets of information and display them. Whether it be numerical data, statistical figures, or categorical information, this application seamlessly processes input and generates an accurate graph based on specifications as per user requirement.
+
+The intuitive interface of GraftCraft Pro simplifies the task of graph creation, from the process of choosing the graph to creating the graph, even for those with limited technological expertise, afterall it is the conclusions driven from the graph that is important, not the process itself. The minimalist design and straightforward navigation allow users to focus on their data rather than becoming overwhelmed by complex software functionalities.
 
 # ScatterPlot
 ![Screenshot 2023-10-01 200255](https://github.com/AdityaC2/Java-Project/assets/91754462/080be969-3ee5-4f8f-a8b1-705b20522da8)
