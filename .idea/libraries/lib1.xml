@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataAnalysisTool/lib/jfreechart-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataAnalysisTool/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataAnalysisTool/lib/gnujaxp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataAnalysisTool/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DataAnalysisTool/lib/jcommon-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
